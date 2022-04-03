@@ -1,6 +1,6 @@
 # SchoolApp (schoolapp)
 
-School Management Application
+School Management Application. This app helps can be use to compute Students result as well as management teachers and students data
 
 ## Install the dependencies
 ```bash
